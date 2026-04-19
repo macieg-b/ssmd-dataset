@@ -47,9 +47,14 @@ Any misuse of the provided data is prohibited.
 
 ## 📚 Citation
 
-If you use this dataset in your research, please cite the corresponding publication.
+If the dataset is used in any publication or scientific work, proper citation of the original paper is required, for example:
 
-👉 https://ieeexplore.ieee.org/document/11218835
+> M. Bartłomiejczyk, I. El Fray, and F. Kamoun,  
+> “Enhancing Two-Factor Authentication Security by Analyzing and Detecting SMS OTP-Interception Techniques in Android Malware,”  
+> *IEEE Access*, vol. 13, 2025,  
+> doi: 10.1109/ACCESS.2025.3626270  
+
+🔗 https://ieeexplore.ieee.org/document/11218835
 
 ---
 
